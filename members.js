@@ -6,6 +6,10 @@ members = [
     {
         id:"sharafadeen hammed",
         password:"102030hs"
+    },
+    {
+        id:"altendorfer donald lee",
+        password:"donald123@"
     }
 
    
