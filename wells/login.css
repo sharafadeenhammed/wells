@@ -37,9 +37,10 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-.overview-img-cont{
+.overview-img-cont{ 
     display: flex;
     justify-content: space-around;
+    margin-bottom: 30px;
 }
 .overview>div>img{
     width:150px;
@@ -53,7 +54,8 @@
 }
 .greet{
     color: rgba(207, 60, 46,0.9);
-    font-weight:700
+    font-weight:700;
+    text-transform: capitalize;
 }
 
 .c-bal>h3>span{

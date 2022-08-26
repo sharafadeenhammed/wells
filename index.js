@@ -40,8 +40,8 @@ app.post("/login",(req,res)=>{
                 <div class="overview-img-cont">
                   <img src="./loginImg/IMG-20220824-WA0041.jpg" alt="">
                 </div>
-                <h3>Welcome ${id}</h3>
-                <p class="greet">Hello ${names[0]}, </p>
+                <!--<h3>Welcome ${id}</h3> -->
+                <p class="greet">Hello, &nbsp; ${names[0]} </p>
                 <div class="c-bal">
                     <h4>~4302</h4>
                     <h3>$65,000,000.00 <span>Current Balance</span></h3>
